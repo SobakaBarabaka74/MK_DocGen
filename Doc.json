@@ -1,0 +1,14 @@
+[{
+    "settings": {
+        "version_make": 0.1,
+        "license": "MK_DocGen", 
+        "start_path": "/storage/emulated/0/MK_DocGen/Tests", 
+        "nline_size": 24
+    }, 
+    "doc": [
+        {
+            "path": "Test.cpp", 
+            "text": "Это тестовый файл с тестовый сгенерированной документацией средствами MK_DocGen. Конфиг с генератором имеет название doc.txt."
+        }
+    ]
+}]
